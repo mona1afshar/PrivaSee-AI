@@ -48,3 +48,20 @@
 			});
 
 })(jQuery);
+
+function uploadImage() {
+    const formData = new FormData();
+    const fileInput = document.getElementById('imageInput');
+    formData.append('image', fileInput.files[0]);
+
+    fetch('/process-image', {
+        method: 'POST',
+        body: formData
+    })
+    .then(response => response.json())
+    .then(data => {
+        console.log('Image processed:', data.url);
+        // Optionally, update the UI or perform additional actions.
+    })
+    .catch(error => console.error('Error processing image:', error));
+}

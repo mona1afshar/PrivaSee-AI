@@ -2325,7 +2325,7 @@ input, select, textarea {
 			box-shadow: none;
 			border-radius: 0;
 			margin: 0 0 3em 0;
-			width: 13em;
+			width: 19em;
 		}
 
 			.image.phone img {
@@ -3351,8 +3351,8 @@ input, select, textarea {
 			}
 
 		.wrapper.style3 {
-			background-color: #f7f7f7;
-			color: #999999;
+			background-color: #f4f2f2;
+			color: #181818;
 		}
 
 			.wrapper.style3 input[type="submit"],
@@ -3361,7 +3361,7 @@ input, select, textarea {
 			.wrapper.style3 button,
 			.wrapper.style3 .button {
 				background-color: transparent;
-				color: #828282 !important;
+				color: #181818 !important;
 				box-shadow: inset 0 0 0 2px #d6d6d6;
 			}
 
@@ -3431,7 +3431,7 @@ input, select, textarea {
 				}
 
 			.wrapper.style3 .select-wrapper:before {
-				color: #d6d6d6;
+				color: #181818;
 			}
 
 			.wrapper.style3 input[type="checkbox"] + label,
@@ -3548,7 +3548,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style3 h1, .wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
-				color: #828282;
+				color: #5c5a76;
 			}
 
 			.wrapper.style3 blockquote {

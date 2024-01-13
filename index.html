@@ -18,17 +18,31 @@
 			<header id="header">
 				<div class="content">
 					<h1><a href="#">PrivaSee AI</a></h1>
-					<p>Ensuring your privacy by scanning <br />
-						image and video background for potential leaks</p>
+					<p>Safeguarding your Privacy <br />
+						Pixel by Pixel</p>
 					<ul class="actions">
 						<li><a href="#one" class="button icon solid fa-chevron-down scrolly">Try it out!</a></li>
 					</ul>
 				</div>
-				<div class="image phone"><div class="inner"><img src="images/screen.jpg" alt="" /></div></div>
+				<div class="image phone"><div class="inner"><img src="images/iPhone 8.png" alt="" /></div></div>
 			</header>
 
 		<!-- One -->
-			<section id="one" class="wrapper style2 special">
+			<section id="one" class="wrapper style3 special">
+				<header class="major">
+					<h2>Try out the pre-filming area scanner. <br />
+						It will warn you of any potential safety exposures in your background!</h2>
+				</header>
+				<div>
+				<form id="uploadForm" enctype="multipart/form-data">
+					<input type="file" name="image" id="imageInput" accept="image/*">
+					<button type="button" onclick="uploadImage()">Upload</button>
+				</form>
+			</div>
+			</section>
+
+			<!-- Two -->
+			<section id="two" class="wrapper style2 special">
 				<header class="major">
 					<h2>Upload an image or video file here to <br />
 					allow the AI Scanner to find any possible privacy issues!</h2>

@@ -33,7 +33,12 @@
 					<h2>Sed ipsum magna lorem tempus amet<br />
 					vehicula et gravida elementum</h2>
 				</header>
-				<ul class="icons major">
+				<label for="photo">Choose a photo!</label>
+				<form id="uploadForm" enctype="multipart/form-data">
+					<input type="file" name="image" id="imageInput" accept="image/*">
+					<button type="button" onclick="uploadImage()">Upload</button>
+				</form>
+					<div><img src="images/imageupload.png" alt="" /></div>
 					<li><span class="icon solid fa-camera-retro"><span class="label">Shoot</span></span></li>
 					<li><span class="icon solid fa-sync"><span class="label">Process</span></span></li>
 					<li><span class="icon solid fa-cloud"><span class="label">Upload</span></span></li>

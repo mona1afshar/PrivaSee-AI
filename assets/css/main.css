@@ -325,7 +325,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #828282;
+		color: #181818;
 	}
 
 	blockquote {
@@ -3137,8 +3137,8 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: #fbfbfb;
-			color: #999999;
+			background-color: #ffffff;
+			color: #181818;
 		}
 
 			.wrapper.style2 input[type="submit"],
@@ -3334,7 +3334,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
-				color: #828282;
+				color: #5c5a76;
 			}
 
 			.wrapper.style2 blockquote {
@@ -3611,8 +3611,8 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		background-color: #4696e5;
-		color: #d1e5f9;
+		background-color: #5c5a76;
+		color: #ffffff;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
 		-webkit-align-items: center;

@@ -6,6 +6,6 @@ We used Roboflow to build our own dataset to train our AI tool, using this we us
 
 Our team was able to secure 2nd place overall at SheHacks+, win the MLH prize for best domain name and even got an honourable mention from GM!
 
-Check out our [Devpost]([https://www.google.com](https://devpost.com/software/privasee-ai])
+Check out our [Devpost]([https://devpost.com/software/privasee-ai])
 
 ![Logo](images/logoblackbackground.jpeg)

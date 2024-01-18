@@ -4,4 +4,4 @@ We built PrivaSee AI, a tool that will help social media users feel safe when po
 
 Our team was able to secure 2nd place overall at SheHacks+, win the MLH prize for best domain name and even got an honourable mention from GM!
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/mona1afshar/PrivaSee-AI/main/images/logoblackbackground.jpeg)
